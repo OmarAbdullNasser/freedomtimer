@@ -149,7 +149,7 @@ done(){
 
 
 .footer{
-  margin-top: 10rem;
+  margin-top: 5rem;
   h1{
     font-size: 20px ;
     color:#d78d5e
